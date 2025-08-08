@@ -1,0 +1,68 @@
+
+*{
+    margin:0;
+    padding:0;
+}
+
+.border {
+    border: 2px solid red;
+    margin: 3px;
+}
+
+.flex{
+    display:flex;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.item-center{
+    align-items:center;
+}
+.bg-black{
+    background-color:black;
+    color:white;
+}
+
+.invert{
+    filter: invert(1);
+}
+
+
+.bg-grey{
+    background-color: #121212;
+}
+
+.rounded{
+    border-radius: 7px;
+}
+
+.m-1{
+    margin: 5px;
+}
+
+.p-1{
+    padding: 10px;
+}
+/* For Webkit browsers (Chrome, Safari) */
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(180deg, #800080, #ff4500); /* Gradient from purple to red */
+    border-radius: 6px;
+    border: 2px solid #222; /* Dark border for contrast */
+}
+
+::-webkit-scrollbar-track {
+    background: #1c1c1c; /* Darker track for contrast */
+    border-radius: 6px;
+}
+
+/* For Firefox */
+html {
+    scrollbar-width: thin; /* Thin scrollbar */
+    scrollbar-color: #800080 #1c1c1c; /* Firefox doesn't support gradients for scrollbars */
+}

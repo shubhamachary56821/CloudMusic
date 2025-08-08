@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Bollywood Vibes",
+    "description": "Feel-good and romantic hits from Bollywood",
+    "cover": "/img/yoyo.jpg",
+    "songs": [
+      {
+        "title": "Tumse Hi Tumse",
+        "url": "https://res.cloudinary.com/dhavqo03o/video/upload/v1754585791/Tumse_Hi_Tumse_f9dqlm.mp3"
+      },
+      {
+        "title": "Tum Se Hi",
+        "url": "https://res.cloudinary.com/dhavqo03o/video/upload/v1754585785/Tum_Se_Hi_mh0tlm.mp3"
+      },
+      {
+        "title": "Subha Hone Na De",
+        "url": "https://res.cloudinary.com/dhavqo03o/video/upload/v1754585783/Subha_Hone_Na_De_hvo4ct.mp3"
+      },
+      {
+        "title": "Tum Hi Ho Bandhu",
+        "url": "https://res.cloudinary.com/dhavqo03o/video/upload/v1754585786/Tum_Hi_Ho_Bandhu_je71qt.mp3"
+      },
+      {
+        "title": "Hey Nenila",
+        "url": "https://res.cloudinary.com/dhavqo03o/video/upload/v1754550501/Hey-Nenila_wmfmr1.mp3"
+      },
+      {
+        "title": "Desi Kalakaar",
+        "url": "https://res.cloudinary.com/dhavqo03o/video/upload/v1754549719/Desi_Kalakaar_k1hhpu.mp3"
+      },
+      {
+        "title": "Blue Eyes",
+        "url": "https://res.cloudinary.com/dhavqo03o/video/upload/v1754549715/Blue_Eyes_m7dvew.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Party Beats",
+    "description": "High-energy tracks to get the party started",
+    "cover": "/img/weeknd.jpg",
+    "songs": [
+      {
+        "title": "Party On My Mind",
+        "url": "https://res.cloudinary.com/dhavqo03o/video/upload/v1754585785/Party_On_My_Mind_aqqolo.mp3"
+      },
+      {
+        "title": "Lat Lag Gayee",
+        "url": "https://res.cloudinary.com/dhavqo03o/video/upload/v1754585777/Lat_Lag_Gayee_ehkebg.mp3"
+      },
+      {
+        "title": "1Millionaire",
+        "url": "https://res.cloudinary.com/dhavqo03o/video/upload/v1754549713/1Millionaire_trcfyu.mp3"
+      },
+      {
+        "title": "Starboy",
+        "url": "https://res.cloudinary.com/dhavqo03o/video/upload/v1754585778/Starboy_kqhu9f.mp3"
+      },
+      {
+        "title": "Blinding Lights",
+        "url": "https://res.cloudinary.com/dhavqo03o/video/upload/v1754551703/Blinding_Lights_PenduJatt.Com.Se_s2oby8.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Chill & International",
+    "description": "Relaxing international tracks and themes",
+    "cover": "/img/sleep.jpg",
+    "songs": [
+      {
+        "title": "Let Me Go",
+        "url": "https://res.cloudinary.com/dhavqo03o/video/upload/v1754585767/Let_Me_Go_with_Alesso_Florida_Georgia_Line_watt_swye2w.mp3"
+      },
+      {
+        "title": "Starving",
+        "url": "https://res.cloudinary.com/dhavqo03o/video/upload/v1754585765/Starving_z9tp94.mp3"
+      },
+      {
+        "title": "Love Yourself",
+        "url": "https://res.cloudinary.com/dhavqo03o/video/upload/v1754585771/Love_Yourself_qev4cz.mp3"
+      },
+      {
+        "title": "Please Find Attached",
+        "url": "https://res.cloudinary.com/dhavqo03o/video/upload/v1754550509/Please-Find-Attached_dssjc2.mp3"
+      },
+      {
+        "title": "Rain Theme",
+        "url": "https://res.cloudinary.com/dhavqo03o/video/upload/v1754550512/Rain-Theme_dyyzgk.mp3"
+      }
+    ]
+  }
+]
