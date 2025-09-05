@@ -1,8 +1,8 @@
 [
   {
     "name": "Bollywood Vibes",
-    "description": "Feel-good and romantic hits from Bollywood",
-    "cover": "/img/yoyo.jpg",
+    "description": "Feel-good Songs",
+    "cover": "/img/hindiMusic.jpg",
     "songs": [
       {
         "title": "Tumse Hi Tumse",
@@ -17,12 +17,27 @@
         "url": "https://res.cloudinary.com/dhavqo03o/video/upload/v1754585783/Subha_Hone_Na_De_hvo4ct.mp3"
       },
       {
-        "title": "Tum Hi Ho Bandhu",
-        "url": "https://res.cloudinary.com/dhavqo03o/video/upload/v1754585786/Tum_Hi_Ho_Bandhu_je71qt.mp3"
+        "title": "Party On My Mind",
+        "url": "https://res.cloudinary.com/dhavqo03o/video/upload/v1754585785/Party_On_My_Mind_aqqolo.mp3"
       },
       {
-        "title": "Hey Nenila",
-        "url": "https://res.cloudinary.com/dhavqo03o/video/upload/v1754550501/Hey-Nenila_wmfmr1.mp3"
+        "title": "Lat Lag Gayee",
+        "url": "https://res.cloudinary.com/dhavqo03o/video/upload/v1754585777/Lat_Lag_Gayee_ehkebg.mp3"
+      },
+      {
+        "title": "Tum Hi Ho Bandhu",
+        "url": "https://res.cloudinary.com/dhavqo03o/video/upload/v1754585786/Tum_Hi_Ho_Bandhu_je71qt.mp3"
+      }
+    ]
+  },
+  {
+    "name": "yo yo Honey Singh",
+    "description": "Classic hits of Bluetooth King",
+    "cover": "/img/yoyo.jpg",
+    "songs": [
+      {
+        "title": "1Millionaire",
+        "url": "https://res.cloudinary.com/dhavqo03o/video/upload/v1754549713/1Millionaire_trcfyu.mp3"
       },
       {
         "title": "Desi Kalakaar",
@@ -35,22 +50,10 @@
     ]
   },
   {
-    "name": "Party Beats",
-    "description": "High-energy tracks to get the party started",
+    "name": "The Weeknd",
+    "description": "High-energy",
     "cover": "/img/weeknd.jpg",
     "songs": [
-      {
-        "title": "Party On My Mind",
-        "url": "https://res.cloudinary.com/dhavqo03o/video/upload/v1754585785/Party_On_My_Mind_aqqolo.mp3"
-      },
-      {
-        "title": "Lat Lag Gayee",
-        "url": "https://res.cloudinary.com/dhavqo03o/video/upload/v1754585777/Lat_Lag_Gayee_ehkebg.mp3"
-      },
-      {
-        "title": "1Millionaire",
-        "url": "https://res.cloudinary.com/dhavqo03o/video/upload/v1754549713/1Millionaire_trcfyu.mp3"
-      },
       {
         "title": "Starboy",
         "url": "https://res.cloudinary.com/dhavqo03o/video/upload/v1754585778/Starboy_kqhu9f.mp3"
@@ -62,9 +65,9 @@
     ]
   },
   {
-    "name": "Chill & International",
+    "name": "International",
     "description": "Relaxing international tracks and themes",
-    "cover": "/img/sleep.jpg",
+    "cover": "/img/hailee.jpg",
     "songs": [
       {
         "title": "Let Me Go",
@@ -77,7 +80,14 @@
       {
         "title": "Love Yourself",
         "url": "https://res.cloudinary.com/dhavqo03o/video/upload/v1754585771/Love_Yourself_qev4cz.mp3"
-      },
+      }
+    ]
+  },
+  {
+    "name": "Chill",
+    "description": "Relaxing international tracks and themes",
+    "cover": "/img/chill.jpg",
+    "songs": [
       {
         "title": "Please Find Attached",
         "url": "https://res.cloudinary.com/dhavqo03o/video/upload/v1754550509/Please-Find-Attached_dssjc2.mp3"
@@ -85,6 +95,18 @@
       {
         "title": "Rain Theme",
         "url": "https://res.cloudinary.com/dhavqo03o/video/upload/v1754550512/Rain-Theme_dyyzgk.mp3"
+      },
+      {
+        "title": "Hey Nenila",
+        "url": "https://res.cloudinary.com/dhavqo03o/video/upload/v1754550501/Hey-Nenila_wmfmr1.mp3"
+      },
+      {
+        "title": "Samurai",
+        "url": "https://res.cloudinary.com/dhavqo03o/video/upload/v1754647008/Samurai-Theme_ouz9yn.mp3"
+      },
+      {
+        "title": "GTA 4",
+        "url": "https://res.cloudinary.com/dhavqo03o/video/upload/v1754647005/GTA-4-Theme_p3qjoq.mp3"
       }
     ]
   }
